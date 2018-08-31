@@ -47,10 +47,16 @@ window.onload = function() {
   if (paramContent) text.value = paramContent;
   
   var paramTextColor = getParameterByName("b");
-  if (paramTextColor) setTextColor(paramTextColor);
+  if (paramTextColor) {
+    input_textcolor.value = paramTextColor;
+    setTextColor(paramTextColor);
+  }
   
   var paramBGColor = getParameterByName("c");
-  if (paramBGColor) setBGColor(paramBGColor);
+  if (paramBGColor) {
+    input_backgroundcolor.value = paramBGColor;
+    setBGColor(paramBGColor);
+  }
 }
 
 
