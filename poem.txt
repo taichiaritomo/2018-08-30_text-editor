@@ -7,19 +7,15 @@ uproot the thistles
 pull the dandelions
 
 my itchy arm
+
 i want to show you something so neat
 i worked so hard on it
 
 sort the books
 
-
-
 wipe the table
 
 do you like it?
-
-can't concentrate
-like so ADD
 
 how many unwashed cups are circulating right now?
 
@@ -27,7 +23,7 @@ unclog the shower drain
 
 your friends are somewhere
 passing the time
-or solving a great mystery
+or solving some great mystery
 
 where do you want to go today?
 
@@ -48,16 +44,13 @@ where do you want to go today?
     <br>
     do you like it?<br>
     <br>
-    can't concentrate<br>
-    like so ADD<br>
-    <br>
     how many unwashed cups are circulating right now?<br>
     <br>
     unclog the shower drain<br>
     <br>
     your friends are somewhere<br>
     passing the time<br>
-    or solving a great mystery<br>
+    or solving some great mystery<br>
     <br>
     where do you want to go today?
   </span>

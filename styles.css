@@ -20,6 +20,7 @@ textarea {
   caret-color: green;
   -moz-text-stroke-color: green;
   -webkit-text-stroke-color: green;
+  resize: none;
 }
 
 @media screen and (min-width: 0px) and (max-width: 640px) {
