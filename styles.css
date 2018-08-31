@@ -15,7 +15,7 @@ textarea {
   font-family: serif;
   font-size: 128px;
   padding: 12px;
-  
+  border-radius: 0;
   color: transparent;
   caret-color: green;
   -moz-text-stroke-color: green;
